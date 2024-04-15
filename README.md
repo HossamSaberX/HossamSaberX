@@ -1,6 +1,5 @@
 # About Me
-I am Hossam Saber, a 20-year-old Computer Engineering student at Mansoura University.<br>
-Working hard to be a great software engineer.
+I am Hossam Saber, a 20-year-old Computer Engineering student at Mansoura University, doing my best to be a great software engineer.
 
 
 ## 🌐 Socials
